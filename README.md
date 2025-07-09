@@ -36,6 +36,9 @@
 <!-- Mysql 배지 코드 예시 -->
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
+## 📈 Github Stats
+![Jiwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=summer1029&show_icons=true&theme=transparent)
+
 <!--
 **summer1029/summer1029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
