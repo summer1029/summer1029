@@ -1,8 +1,8 @@
-## Hi there 👋
+# Hi there 👋
 
  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to-nl-Summer's%20git%20🍀&fontSize=60&textAlign=center&textPosition=40%)
 
- ### 👀 About Me
+ ## 👀 About Me
  
  🙋‍♀️ I am a intermdiate Ful-Stack Developer.
 
