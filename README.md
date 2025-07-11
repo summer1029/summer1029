@@ -1,6 +1,6 @@
 # Hi there 👋
 
- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to-nl-Summer's%20git%20🍀&fontSize=60&textAlign=center&textPosition=40%)
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to-nl-Summer's%20github%20🍀&fontSize=60&textAlign=center&textPosition=40%)
 
  ## 👀 About Me
  
@@ -15,16 +15,16 @@
 ### Language
 
 <!-- Python 배지 -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 <!-- HTML5 배지 -->
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=JavaScript&logoColor=white"/>
 
 <!-- Tailwind CSS 배지 -->
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=JavaScript&logoColor=white"/>
 
 <!-- JavaScript 배지 -->
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 
 ### Framework
 
