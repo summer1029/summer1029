@@ -13,7 +13,6 @@
  
 ## 📚 Tech Stack
 ### Language
-
 <!-- 파이썬 배지 코드 예시 -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <!-- HTML 배지 코드 예시 -->
@@ -24,7 +23,6 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 
 ### Framework
-
 <!-- 리액트 배지 코드 예시 -->
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=JavaScript&logoColor=white"/>
 
