@@ -14,14 +14,14 @@
 ## 📚 Tech Stack
 ### Language
 
-<!-- 파이썬 배지 코드 예시 -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-<!-- HTML 배지 코드 예시 -->
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=JavaScript&logoColor=white">
-<!-- Tailwind CSS 배지 코드 예시 -->
-<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=JavaScript&logoColor=white">
-<!-- 자바스크립트 배지 코드 예시 -->
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
+<!-- Python 배지 -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<!-- HTML5 배지 -->
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=JavaScript&logoColor=white"/>
+<!-- Tailwind CSS 배지 -->
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=JavaScript&logoColor=white"/>
+<!-- JavaScript 배지 -->
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 
 ### Framework
 
