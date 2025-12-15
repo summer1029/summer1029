@@ -4,7 +4,7 @@
 
  ## 👀 About Me
  
- 🙋‍♀️ I am a intermdiate Ful-Stack Developer.
+ 🙋‍♀️ I am a intermdiate Full-Stack Developer.
 
  🔥 I aim to be a Full Stack Developer.
 
